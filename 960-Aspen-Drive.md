@@ -1,5 +1,16 @@
 # 960 Aspen Drive
 
+```
+MLS#:10292560
+Subdiv: CEDAR HILL 
+
+$309,900
+Beds 4
+Year Built 1979
+Baths 2/0
+Approx SqFt 1,701
+```
+
 ## Pros
 
 * Kitchen layout

@@ -1,5 +1,16 @@
 # 3748 Old Forge Road
 
+```
+MLS#:10287639
+Subdiv: WINDSOR WOODS
+
+$259,900
+Beds 3
+Year Built 1967
+Baths 2/0
+Approx SqFt 1,400
+```
+
 ## Pros
 
 * Proximity to 264
